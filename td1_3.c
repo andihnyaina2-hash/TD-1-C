@@ -18,6 +18,7 @@ FONCTION
     AFFICHER b
   RENVOYER a
   RENVOYER b
+FIN_FONCTION
 VARIABLE 
   nbr1 , nbr2 types reel
 DEBUT
